@@ -1,9 +1,5 @@
 !/usr/bin/env python3
-"""
-average_marks.py
-Simple program to calculate student averages with input validation.
-Saves results to student_averages.csv
-"""
+
 
 import csv
 
